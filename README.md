@@ -51,7 +51,7 @@ Note: everything we've done has been local to our repository and have not pushed
 
 You should now see the changes you had made are also in the `main` branch.
 
-- [ ] Now, we'll want to clean up since we are done with our `task_1` branch.
+- [X] Now, we'll want to clean up since we are done with our `task_1` branch.
   - IntelliJ: `Git -> branches... -> task_1 -> Delete`
   - Terminal: `git branch -d task_1`
 
@@ -84,7 +84,7 @@ You'll notice that your repository already has two branches called `alice` and `
     - If you do the merge through the Terminal, you will need to edit `recipe.md` to remove all of the
     merge conflict symbols which `git` has added to your file. Once done, you will need to `git add` the
     `recipe.md` file and `git commit` to finish the merge.
-- [ ] Once the merge is complete, delete the `bob` branch.
+- [X] Once the merge is complete, delete the `bob` branch.
 
 - [ ] Finally, checkout the `main` branch and merge the `alice` branch in (as we did previously).
 
