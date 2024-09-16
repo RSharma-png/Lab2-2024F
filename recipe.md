@@ -6,14 +6,17 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
-- ...
+- 2 large eggs
+- 3/4 cup vegetable oil
+- 3/4 cup milk
 
 ## Instructions:
 1. Preheat the oven to 375°F (190°C).
-2. In a large bowl, whisk together the flour, sugar, cocoa powder, and ground cinnamon.
+2. In a large bowl, whisk together the flour, sugar, cocoa powder, and chocolate chips.
 3. ...
 
 ## Additional Directions by Alice:
 4. In a separate bowl, beat the eggs and add them to the mixture. Stir until well combined.
 5. Gradually add the milk and vegetable oil to the mixture, continuing to stir.
 6. Pour the batter into a greased and floured 9x13-inch baking pan.
+7. Bake at 375°F (190°C) for 20-25 minutes. 
